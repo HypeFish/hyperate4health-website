@@ -21,6 +21,10 @@ export default function Home() {
           <a href='https://www.mediafire.com/file/fjg0joj0auk0gm7/Hyperate4Health-1.0.zip/file' download> Download ZIP for MacOS</a>
         </p>
 
+        <p>
+          <a href='https://www.mediafire.com/file/wqi3rxqttlnnl3q/Hyperate4Health.zip/file' download> Download ZIP for Windows</a>
+        </p>
+        
         <Image src="/heart.png" alt="Hyperate Icon" width={200} height={200} />
 
         <footer className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
