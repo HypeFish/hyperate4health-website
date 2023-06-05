@@ -28,7 +28,7 @@ export default function Home() {
         <Image src="/heart.png" alt="Hyperate Icon" width={200} height={200} />
         <br></br>
         <p>
-          *Note: On Windows, the app will be detected as a virus. This is because the app is not signed. To run the app, you must click "More Info" and then "Run Anyway". The app is safe to run.
+          *Note: The app will be seen as a virus by your computer. This is because the app is not signed by Apple or Microsoft. For MacOS, to open the app, right click on the app and click open. Then, click open again. The app will then open. For Windows, click on more info and then click run anyway. The app will then open.
         </p>
 
         <footer className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
