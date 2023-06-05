@@ -22,7 +22,7 @@ export default function Home() {
         </p>
 
         <p>
-          <a href='https://www.mediafire.com/file/av5ymf5e6juod38/Hyperate4Health%25282%2529.exe.zip/file' download> Download ZIP for Windows</a>
+          <a href='https://www.mediafire.com/file/p51wgkuasj3b1og/Hyperate4Health.zip/file' download> Download ZIP for Windows</a>
         </p>
         
         <Image src="/heart.png" alt="Hyperate Icon" width={200} height={200} />
