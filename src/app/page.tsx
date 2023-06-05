@@ -22,10 +22,14 @@ export default function Home() {
         </p>
 
         <p>
-          <a href='https://www.mediafire.com/file/p51wgkuasj3b1og/Hyperate4Health.zip/file' download> Download ZIP for Windows</a>
+          <a href='https://www.mediafire.com/file/p51wgkuasj3b1og/Hyperate4Health.zip/file' download> Download ZIP for Windows </a>
         </p>
         
         <Image src="/heart.png" alt="Hyperate Icon" width={200} height={200} />
+        <br></br>
+        <p>
+          *Note: On Windows, the app will be detected as a virus. This is because the app is not signed. To run the app, you must click "More Info" and then "Run Anyway". The app is safe to run.
+        </p>
 
         <footer className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
           <p>© Hyperate4Health 2023</p>
