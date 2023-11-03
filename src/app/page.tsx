@@ -26,7 +26,7 @@ export default function Home() {
           <a href="https://www.mediafire.com/file/rjua4sr42kggsqq/Hyperate4Health-1.0.dmg/file" download>Download Hyperate4Health App (Apple Silicon)</a>
         </p>
 
-        <Image src="/heart.png" alt="Hyperate Icon" width={200} height={200} />
+        <Image src="/image.png" alt="Hyperate Icon" width={200} height={200} />
 
         <p>
           Your computer will prompt you with a warning that the app is not verified.
