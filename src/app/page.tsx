@@ -23,7 +23,7 @@ export default function Home() {
         </p>
 
         <p>
-          <a href="/Hyperate4Health.jar" download>Download Hyperate4Health App</a>
+          <a href="https://www.mediafire.com/file/rjua4sr42kggsqq/Hyperate4Health-1.0.dmg/file" download>Download Hyperate4Health App (Apple Silicon)</a>
         </p>
 
         <Image src="/heart.png" alt="Hyperate Icon" width={200} height={200} />
